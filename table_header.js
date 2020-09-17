@@ -1,7 +1,7 @@
 document.write("<table width=\"805\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
-document.write("<td> <img src=\"images/nicolasloizou.png\" alt=\"Nicolas Loizou\"");
+document.write("<td> <img src=\"nicolasloizou.png\" alt=\"Nicolas Loizou\"");
 document.write("width=\"161\" height=\"200\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Nicolas Loizou</h1>");
